@@ -1,2 +1,2 @@
-# maxhutch102.github.io
-Personal Hosting
+# week-2-homework
+Portfolio homework for week 2
